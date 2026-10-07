@@ -1,0 +1,6 @@
+{
+  "name": "e-Boma",
+  "description": "Group staycation booking app for Kisumu, Kenya with M-Pesa cost splitting and escrow protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
